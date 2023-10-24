@@ -1,0 +1,3 @@
+{
+  "email_template": "From: {from_mail}\nTo: {to_mail}\nSubject: {name}\nContent-Type: text/plain; charset=\"UTF-8\";\n\n{data}"
+}
